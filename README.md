@@ -22,7 +22,7 @@ If using local MongoDB, make sure MongoDB is running.
 
 ##📌 1. Clone the Repository
 ```sh
-git clone <>
+git clone https://github.com/PulinduVR/SpiritX_Devsquare_01.git
 cd secureconnect
 ```
 

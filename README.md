@@ -35,7 +35,7 @@ yarn install
 
 ##📌 3. Set Up Environment Variables
 Create a .env.local file in the root of your project.
-Add the following variables:
+Add the following variables with respect to your DB account:
 ```
 MONGODB_URI=mongodb+srv://username:password@cluster0.mongodb.net/mydatabase?retryWrites=true&w=majority
 NEXTAUTH_SECRET=your_random_secret_key
